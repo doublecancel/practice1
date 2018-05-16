@@ -1,0 +1,252 @@
+2017-11-15 15:05:12.759 [main] INFO 
+                com.ucpaas.opt.App - Starting App on UCPAA-20170811U with PID 43052 (F:\github\practice\boot\build\classes\java\main started by Administrator in F:\github\practice) 
+2017-11-15 15:05:12.794 [main] INFO 
+                com.ucpaas.opt.App - The following profiles are active: dev 
+2017-11-15 15:05:13.065 [main] INFO 
+                o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@63cd604c: startup date [Wed Nov 15 15:05:13 CST 2017]; root of context hierarchy 
+2017-11-15 15:05:14.754 [main] WARN 
+                org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.ucpaas.opt]' package. Please check your configuration. 
+2017-11-15 15:05:24.450 [main] INFO 
+                o.s.b.c.e.tomcat.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 10004 (http) 
+2017-11-15 15:05:24.500 [main] INFO 
+                org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2017-11-15 15:05:24.503 [main] INFO 
+                org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.20 
+2017-11-15 15:05:24.819 [localhost-startStop-1] INFO 
+                o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2017-11-15 15:05:24.820 [localhost-startStop-1] INFO 
+                org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 11755 ms 
+2017-11-15 15:05:25.123 [localhost-startStop-1] INFO 
+                o.s.boot.web.servlet.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/] 
+2017-11-15 15:05:25.141 [localhost-startStop-1] INFO 
+                o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*] 
+2017-11-15 15:05:25.142 [localhost-startStop-1] INFO 
+                o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*] 
+2017-11-15 15:05:25.143 [localhost-startStop-1] INFO 
+                o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*] 
+2017-11-15 15:05:25.144 [localhost-startStop-1] INFO 
+                o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*] 
+2017-11-15 15:05:26.806 [main] INFO 
+                o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@63cd604c: startup date [Wed Nov 15 15:05:13 CST 2017]; root of context hierarchy 
+2017-11-15 15:05:27.274 [main] INFO 
+                o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/save]}" onto public java.lang.String com.ucpaas.opt.controller.UserController.save() 
+2017-11-15 15:05:27.283 [main] INFO 
+                o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest) 
+2017-11-15 15:05:27.287 [main] INFO 
+                o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) 
+2017-11-15 15:05:27.358 [main] INFO 
+                o.s.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+2017-11-15 15:05:27.358 [main] INFO 
+                o.s.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+2017-11-15 15:05:27.454 [main] INFO 
+                o.s.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+2017-11-15 15:05:28.203 [main] INFO 
+                o.s.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup 
+2017-11-15 15:05:28.386 [main] INFO 
+                o.s.b.c.e.tomcat.TomcatEmbeddedServletContainer - Tomcat started on port(s): 10004 (http) 
+2017-11-15 15:05:28.405 [main] INFO 
+                com.ucpaas.opt.App - Started App in 18.371 seconds (JVM running for 21.547) 
+2017-11-15 15:05:46.390 [http-nio-127.0.0.1-10004-exec-1] INFO 
+                o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet' 
+2017-11-15 15:05:46.391 [http-nio-127.0.0.1-10004-exec-1] INFO 
+                org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started 
+2017-11-15 15:05:46.429 [http-nio-127.0.0.1-10004-exec-1] INFO 
+                org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 38 ms 
+2017-11-15 15:06:04.414 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564414 
+2017-11-15 15:06:04.417 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564417 
+2017-11-15 15:06:04.418 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564418 
+2017-11-15 15:06:04.420 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564420 
+2017-11-15 15:06:04.421 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564421 
+2017-11-15 15:06:04.421 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564421 
+2017-11-15 15:06:04.421 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564421 
+2017-11-15 15:06:04.422 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564422 
+2017-11-15 15:06:04.422 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564422 
+2017-11-15 15:06:04.422 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564422 
+2017-11-15 15:06:04.422 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564422 
+2017-11-15 15:06:04.422 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564422 
+2017-11-15 15:06:04.423 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564422 
+2017-11-15 15:06:04.423 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564423 
+2017-11-15 15:06:04.423 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564423 
+2017-11-15 15:06:04.423 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564423 
+2017-11-15 15:06:04.423 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564423 
+2017-11-15 15:06:04.424 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564424 
+2017-11-15 15:06:04.424 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564424 
+2017-11-15 15:06:04.424 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564424 
+2017-11-15 15:06:04.424 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564424 
+2017-11-15 15:06:04.424 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564424 
+2017-11-15 15:06:04.424 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564424 
+2017-11-15 15:06:04.425 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564425 
+2017-11-15 15:06:04.425 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564425 
+2017-11-15 15:06:04.425 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564425 
+2017-11-15 15:06:04.425 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564425 
+2017-11-15 15:06:04.434 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564434 
+2017-11-15 15:06:04.434 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564434 
+2017-11-15 15:06:04.434 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564434 
+2017-11-15 15:06:04.434 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564434 
+2017-11-15 15:06:04.434 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564434 
+2017-11-15 15:06:04.434 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564434 
+2017-11-15 15:06:04.435 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564435 
+2017-11-15 15:06:04.435 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564435 
+2017-11-15 15:06:04.435 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564435 
+2017-11-15 15:06:04.435 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564435 
+2017-11-15 15:06:04.435 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564435 
+2017-11-15 15:06:04.435 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564435 
+2017-11-15 15:06:04.436 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564436 
+2017-11-15 15:06:04.437 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564437 
+2017-11-15 15:06:04.437 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564437 
+2017-11-15 15:06:04.437 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564437 
+2017-11-15 15:06:04.438 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564438 
+2017-11-15 15:06:04.438 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564438 
+2017-11-15 15:06:04.439 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564439 
+2017-11-15 15:06:04.439 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564439 
+2017-11-15 15:06:04.439 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564439 
+2017-11-15 15:06:04.439 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564439 
+2017-11-15 15:06:04.439 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564439 
+2017-11-15 15:06:04.439 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564439 
+2017-11-15 15:06:04.439 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564439 
+2017-11-15 15:06:04.440 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564440 
+2017-11-15 15:06:04.440 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564440 
+2017-11-15 15:06:04.448 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564448 
+2017-11-15 15:06:04.449 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564449 
+2017-11-15 15:06:04.449 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564449 
+2017-11-15 15:06:04.450 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564450 
+2017-11-15 15:06:04.451 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564451 
+2017-11-15 15:06:04.452 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564452 
+2017-11-15 15:06:04.452 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564452 
+2017-11-15 15:06:04.452 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564452 
+2017-11-15 15:06:04.452 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564452 
+2017-11-15 15:06:04.452 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564452 
+2017-11-15 15:06:04.453 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564453 
+2017-11-15 15:06:04.453 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564453 
+2017-11-15 15:06:04.453 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564453 
+2017-11-15 15:06:04.453 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564453 
+2017-11-15 15:06:04.453 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564453 
+2017-11-15 15:06:04.454 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564454 
+2017-11-15 15:06:04.455 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564455 
+2017-11-15 15:06:04.455 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564455 
+2017-11-15 15:06:04.455 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564455 
+2017-11-15 15:06:04.455 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564455 
+2017-11-15 15:06:04.455 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564455 
+2017-11-15 15:06:04.455 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564455 
+2017-11-15 15:06:04.455 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564455 
+2017-11-15 15:06:04.455 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564455 
+2017-11-15 15:06:04.456 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564456 
+2017-11-15 15:06:04.456 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564456 
+2017-11-15 15:06:04.456 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564456 
+2017-11-15 15:06:04.460 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564460 
+2017-11-15 15:06:04.460 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564460 
+2017-11-15 15:06:04.460 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564460 
+2017-11-15 15:06:04.461 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564461 
+2017-11-15 15:06:04.461 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564461 
+2017-11-15 15:06:04.461 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564461 
+2017-11-15 15:06:04.461 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564461 
+2017-11-15 15:06:04.461 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564461 
+2017-11-15 15:06:04.462 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564462 
+2017-11-15 15:06:04.462 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564462 
+2017-11-15 15:06:04.462 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564462 
+2017-11-15 15:06:04.462 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564462 
+2017-11-15 15:06:04.462 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564462 
+2017-11-15 15:06:04.462 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564462 
+2017-11-15 15:06:04.463 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564463 
+2017-11-15 15:06:04.463 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564463 
+2017-11-15 15:06:04.463 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564463 
+2017-11-15 15:06:04.464 [http-nio-127.0.0.1-10004-exec-6] INFO 
+                com.ucpaas.opt.controller.UserController - 今天是2017年十一月十三日：1510729564464 

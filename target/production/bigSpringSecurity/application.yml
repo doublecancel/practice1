@@ -1,0 +1,26 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/test?useUnicode=true&characterEncoding=utf8&autoReconnect=true&rewriteBatchedStatements=TRUE&useSSL=false&serverTimezone=UTC
+    username: root
+    password: root
+
+datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/cloud?useUnicode=true&characterEncoding=utf8&autoReconnect=true&rewriteBatchedStatements=TRUE&useSSL=false&serverTimezone=Hongkong
+    username: root
+    password: root
+mybatis:
+  mappingLocation: classpath:mapper/*.xml
+  basePackage: cn.spring.security.demo.dao
+  handlers: cn.spring.security.demo.dao.handlers
+
+
+jwt:
+  privateSecret: fdsafdsafdsafdsa
+  expireTime: 50000
+  header: authenotion
+
+logging.level.org.springframework: warn
+logging.level.cn.spring.security.demo.dao: DEBUG
+logging.level.cn.spring.security.demo.handler: DEBUG

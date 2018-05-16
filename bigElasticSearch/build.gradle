@@ -1,0 +1,31 @@
+group 'practice'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'groovy'
+apply plugin: 'idea'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile 'org.codehaus.groovy:groovy-all:2.3.11'
+
+    testCompile group: 'org.springframework.boot', name: 'spring-boot-starter-test', version: '1.5.7.RELEASE'
+    compile group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: '1.5.7.RELEASE'
+    compile group: 'org.springframework.boot', name: 'spring-boot-autoconfigure', version: '1.5.7.RELEASE'
+
+
+
+    compile group: 'org.springframework.boot', name: 'spring-boot-starter-data-elasticsearch', version: '1.5.7.RELEASE'
+
+    compile group: 'org.projectlombok', name: 'lombok', version: '1.16.18'
+    compile group: 'com.google.guava', name: 'guava', version: '23.0'
+
+
+
+}

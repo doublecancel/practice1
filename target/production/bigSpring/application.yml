@@ -1,0 +1,10 @@
+mybatis:
+  mappingLocation: classpath:mapper/*.xml
+  basePackage: com.ucpaas.opt.dao.mybatis
+  handlers: com.ucpaas.opt.dao.handlers
+
+datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/world?useUnicode=true&characterEncoding=utf8&autoReconnect=true&rewriteBatchedStatements=TRUE&useSSL=false&serverTimezone=UTC
+    username: root
+    password: root

@@ -1,0 +1,100 @@
+[
+  {
+    "id":100001,
+    "username":"王大锤",
+    "password":"123123aa",
+    "phone":"13120971538",
+    "age":30,
+    "roles":[
+      {
+        "id":200001,
+        "roleName":"销售人员1"
+      },
+      {
+        "id":200002,
+        "roleName":"销售人员2"
+      },
+      {
+        "id":200003,
+        "roleName":"销售人员3"
+      }
+    ],
+    "menus":[
+      {
+        "id":300001,
+        "menuName":"用户管理",
+        "type":"1",
+        "level":"2",
+        "parent_id":300000,
+        "createDate":"2017-10-17 12:23:23",
+        "updateDate":"2017-10-17 12:23:23"
+      },
+      {
+        "id":300002,
+        "menuName":"角色管理",
+        "type":"2",
+        "level":"2",
+        "parent_id":300000,
+        "createDate":"2017-10-17 12:23:23",
+        "updateDate":"2017-10-17 12:23:23"
+      }
+    ],
+    "userType":{
+      "id":400001,
+      "name":"管理员",
+      "createDate":"2017-10-17 12:23:23",
+      "updateDate":"2017-10-17 12:23:23"
+    },
+    "createDate":"2017-10-17 12:23:23",
+    "updateDate":"2017-10-17 12:23:23"
+  },
+  {
+    "id":100002,
+    "username":"王大锤2",
+    "password":"123123aa",
+    "phone":"13120971538",
+    "age":30,
+    "roles":[
+      {
+        "id":200001,
+        "roleName":"销售人员1"
+      },
+      {
+        "id":200002,
+        "roleName":"销售人员2"
+      },
+      {
+        "id":200003,
+        "roleName":"销售人员3"
+      }
+    ],
+    "menus":[
+      {
+        "id":300001,
+        "menuName":"用户管理",
+        "type":"1",
+        "level":"2",
+        "parent_id":300000,
+        "createDate":"2017-10-17 12:23:23",
+        "updateDate":"2017-10-17 12:23:23"
+      },
+      {
+        "id":300002,
+        "menuName":"角色管理",
+        "type":"2",
+        "level":"2",
+        "parent_id":300000,
+        "createDate":"2017-10-17 12:23:23",
+        "updateDate":"2017-10-17 12:23:23"
+      }
+    ],
+    "userType":{
+      "id":400001,
+      "name":"管理员",
+      "createDate":"2017-10-17 12:23:23",
+      "updateDate":"2017-10-17 12:23:23"
+    },
+    "createDate":"2017-10-17 12:23:23",
+    "updateDate":"2017-10-17 12:23:23"
+  }
+]

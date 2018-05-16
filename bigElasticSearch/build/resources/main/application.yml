@@ -1,0 +1,16 @@
+server:
+  port: 8082
+  address: localhost
+spring.profiles.active: dev
+logging.level.org.springframework: warn
+logging.level.client: DEBUG
+
+spring:
+     data:
+        elasticsearch:
+            local: false
+            cluster-name: ucpaas-es
+            cluster-nodes: 172.16.5.34:9300
+            repositories:
+                enabled: true
+            properties.transport.tcp.connect_timeout: 60s
