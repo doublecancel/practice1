@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:/gradle-4.2.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/bigDisurptor" />
+            <option value="$PROJECT_DIR$/bigDubbo" />
+            <option value="$PROJECT_DIR$/bigElasticSearch" />
+            <option value="$PROJECT_DIR$/bigFlux" />
+            <option value="$PROJECT_DIR$/bigGroovy" />
+            <option value="$PROJECT_DIR$/bigGuava" />
+            <option value="$PROJECT_DIR$/bigGuice" />
+            <option value="$PROJECT_DIR$/bigHystrix" />
+            <option value="$PROJECT_DIR$/bigJodd" />
+            <option value="$PROJECT_DIR$/bigKotlin" />
+            <option value="$PROJECT_DIR$/bigLogger" />
+            <option value="$PROJECT_DIR$/bigScala" />
+            <option value="$PROJECT_DIR$/bigSpring" />
+            <option value="$PROJECT_DIR$/bigSpringSecurity" />
+            <option value="$PROJECT_DIR$/bigWeb" />
+            <option value="$PROJECT_DIR$/boot" />
+            <option value="$PROJECT_DIR$/jooq-demo" />
+            <option value="$PROJECT_DIR$/rx-java" />
+            <option value="$PROJECT_DIR$/test" />
+            <option value="$PROJECT_DIR$/tk_mapper" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

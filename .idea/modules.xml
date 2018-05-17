@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigDisurptor/bigDisurptor.iml" filepath="$PROJECT_DIR$/.idea/modules/bigDisurptor/bigDisurptor.iml" group="bigDisurptor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigDisurptor/bigDisurptor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bigDisurptor/bigDisurptor_main.iml" group="bigDisurptor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigDisurptor/bigDisurptor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bigDisurptor/bigDisurptor_test.iml" group="bigDisurptor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigDubbo/bigDubbo.iml" filepath="$PROJECT_DIR$/.idea/modules/bigDubbo/bigDubbo.iml" group="bigDubbo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigDubbo/bigDubbo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bigDubbo/bigDubbo_main.iml" group="bigDubbo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigDubbo/bigDubbo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bigDubbo/bigDubbo_test.iml" group="bigDubbo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigElasticSearch/bigElasticSearch.iml" filepath="$PROJECT_DIR$/.idea/modules/bigElasticSearch/bigElasticSearch.iml" group="bigElasticSearch" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigElasticSearch/bigElasticSearch_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bigElasticSearch/bigElasticSearch_main.iml" group="bigElasticSearch" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigElasticSearch/bigElasticSearch_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bigElasticSearch/bigElasticSearch_test.iml" group="bigElasticSearch" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigFlux/bigFlux.iml" filepath="$PROJECT_DIR$/.idea/modules/bigFlux/bigFlux.iml" group="bigFlux" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigFlux/bigFlux_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bigFlux/bigFlux_main.iml" group="bigFlux" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigFlux/bigFlux_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bigFlux/bigFlux_test.iml" group="bigFlux" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigGroovy/bigGroovy.iml" filepath="$PROJECT_DIR$/.idea/modules/bigGroovy/bigGroovy.iml" group="bigGroovy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigGroovy/bigGroovy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bigGroovy/bigGroovy_main.iml" group="bigGroovy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigGroovy/bigGroovy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bigGroovy/bigGroovy_test.iml" group="bigGroovy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigGuava/bigGuava.iml" filepath="$PROJECT_DIR$/.idea/modules/bigGuava/bigGuava.iml" group="bigGuava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigGuava/bigGuava_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bigGuava/bigGuava_main.iml" group="bigGuava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigGuava/bigGuava_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bigGuava/bigGuava_test.iml" group="bigGuava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigGuice/bigGuice.iml" filepath="$PROJECT_DIR$/.idea/modules/bigGuice/bigGuice.iml" group="bigGuice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigGuice/bigGuice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bigGuice/bigGuice_main.iml" group="bigGuice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigGuice/bigGuice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bigGuice/bigGuice_test.iml" group="bigGuice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigHystrix/bigHystrix.iml" filepath="$PROJECT_DIR$/.idea/modules/bigHystrix/bigHystrix.iml" group="bigHystrix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigHystrix/bigHystrix_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bigHystrix/bigHystrix_main.iml" group="bigHystrix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigHystrix/bigHystrix_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bigHystrix/bigHystrix_test.iml" group="bigHystrix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigJodd/bigJodd.iml" filepath="$PROJECT_DIR$/.idea/modules/bigJodd/bigJodd.iml" group="bigJodd" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigJodd/bigJodd_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bigJodd/bigJodd_main.iml" group="bigJodd" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigJodd/bigJodd_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bigJodd/bigJodd_test.iml" group="bigJodd" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigKotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/bigKotlin.iml" group="bigKotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigKotlin/bigKotlin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bigKotlin/bigKotlin_main.iml" group="bigKotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigKotlin/bigKotlin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bigKotlin/bigKotlin_test.iml" group="bigKotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigLogger/bigLogger.iml" filepath="$PROJECT_DIR$/.idea/modules/bigLogger/bigLogger.iml" group="bigLogger" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigLogger/bigLogger_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bigLogger/bigLogger_main.iml" group="bigLogger" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigLogger/bigLogger_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bigLogger/bigLogger_test.iml" group="bigLogger" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigScala/bigScala.iml" filepath="$PROJECT_DIR$/.idea/modules/bigScala/bigScala.iml" group="bigScala" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigScala/bigScala_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bigScala/bigScala_main.iml" group="bigScala" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigScala/bigScala_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bigScala/bigScala_test.iml" group="bigScala" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigSpring/bigSpring.iml" filepath="$PROJECT_DIR$/.idea/modules/bigSpring/bigSpring.iml" group="bigSpring" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigSpringSecurity/bigSpringSecurity.iml" filepath="$PROJECT_DIR$/.idea/modules/bigSpringSecurity/bigSpringSecurity.iml" group="bigSpringSecurity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigSpringSecurity/bigSpringSecurity_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bigSpringSecurity/bigSpringSecurity_main.iml" group="bigSpringSecurity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigSpringSecurity/bigSpringSecurity_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bigSpringSecurity/bigSpringSecurity_test.iml" group="bigSpringSecurity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigSpring/bigSpring_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bigSpring/bigSpring_main.iml" group="bigSpring" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigSpring/bigSpring_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bigSpring/bigSpring_test.iml" group="bigSpring" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigWeb/bigWeb.iml" filepath="$PROJECT_DIR$/.idea/modules/bigWeb/bigWeb.iml" group="bigWeb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigWeb/bigWeb_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bigWeb/bigWeb_main.iml" group="bigWeb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigWeb/bigWeb_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bigWeb/bigWeb_test.iml" group="bigWeb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/boot/boot.iml" filepath="$PROJECT_DIR$/.idea/modules/boot/boot.iml" group="boot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/boot/boot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/boot/boot_main.iml" group="boot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/boot/boot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/boot/boot_test.iml" group="boot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jooq-demo/jooq-demo.iml" filepath="$PROJECT_DIR$/.idea/modules/jooq-demo/jooq-demo.iml" group="jooq-demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jooq-demo/jooq-demo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jooq-demo/jooq-demo_main.iml" group="jooq-demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jooq-demo/jooq-demo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jooq-demo/jooq-demo_test.iml" group="jooq-demo" />
+      <module fileurl="file://$PROJECT_DIR$/practice.iml" filepath="$PROJECT_DIR$/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/practice_main.iml" group="practice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/practice_test.iml" group="practice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rx-java/rx-java.iml" filepath="$PROJECT_DIR$/.idea/modules/rx-java/rx-java.iml" group="rx-java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rx-java/rx-java_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rx-java/rx-java_main.iml" group="rx-java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rx-java/rx-java_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rx-java/rx-java_test.iml" group="rx-java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test/test.iml" filepath="$PROJECT_DIR$/.idea/modules/test/test.iml" group="test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test/test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/test/test_main.iml" group="test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test/test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/test/test_test.iml" group="test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tk_mapper/tk_mapper.iml" filepath="$PROJECT_DIR$/.idea/modules/tk_mapper/tk_mapper.iml" group="tk_mapper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tk_mapper/tk_mapper_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tk_mapper/tk_mapper_main.iml" group="tk_mapper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tk_mapper/tk_mapper_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tk_mapper/tk_mapper_test.iml" group="tk_mapper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="util" />
+    </modules>
+  </component>
+</project>

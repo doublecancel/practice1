@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.projectreactor.ipc:reactor-ipc:0.7.0.M1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor.ipc/reactor-ipc/0.7.0.M1/5cd0a244bb683ed1666442c773e8f93c36899670/reactor-ipc-0.7.0.M1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor.ipc/reactor-ipc/0.7.0.M1/9d008b386de80fc7969a07779bd9520b0ec73b1b/reactor-ipc-0.7.0.M1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

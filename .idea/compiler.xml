@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bigDisurptor_main" target="1.8" />
+      <module name="bigDisurptor_test" target="1.8" />
+      <module name="bigDubbo_main" target="1.8" />
+      <module name="bigDubbo_test" target="1.8" />
+      <module name="bigElasticSearch_main" target="1.8" />
+      <module name="bigElasticSearch_test" target="1.8" />
+      <module name="bigFlux_main" target="1.8" />
+      <module name="bigFlux_test" target="1.8" />
+      <module name="bigGroovy_main" target="1.8" />
+      <module name="bigGroovy_test" target="1.8" />
+      <module name="bigGuava_main" target="1.8" />
+      <module name="bigGuava_test" target="1.8" />
+      <module name="bigGuice_main" target="1.8" />
+      <module name="bigGuice_test" target="1.8" />
+      <module name="bigHystrix_main" target="1.8" />
+      <module name="bigHystrix_test" target="1.8" />
+      <module name="bigJodd_main" target="1.8" />
+      <module name="bigJodd_test" target="1.8" />
+      <module name="bigKotlin_main" target="1.8" />
+      <module name="bigKotlin_test" target="1.8" />
+      <module name="bigLogger_main" target="1.8" />
+      <module name="bigLogger_test" target="1.8" />
+      <module name="bigScala_main" target="1.8" />
+      <module name="bigScala_test" target="1.8" />
+      <module name="bigSpring_main" target="1.8" />
+      <module name="bigSpring_test" target="1.8" />
+      <module name="bigSpringSecurity_main" target="1.8" />
+      <module name="bigSpringSecurity_test" target="1.8" />
+      <module name="bigWeb_main" target="1.8" />
+      <module name="bigWeb_test" target="1.8" />
+      <module name="boot_main" target="1.8" />
+      <module name="boot_test" target="1.8" />
+      <module name="jooq-demo_main" target="1.8" />
+      <module name="jooq-demo_test" target="1.8" />
+      <module name="practice_main" target="1.8" />
+      <module name="practice_test" target="1.8" />
+      <module name="rx-java_main" target="1.8" />
+      <module name="rx-java_test" target="1.8" />
+      <module name="test_main" target="1.8" />
+      <module name="test_test" target="1.8" />
+      <module name="tk_mapper_main" target="1.8" />
+      <module name="tk_mapper_test" target="1.8" />
+      <module name="util_main" target="1.8" />
+      <module name="util_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
